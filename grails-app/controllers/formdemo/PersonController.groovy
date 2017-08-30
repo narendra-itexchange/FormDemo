@@ -12,4 +12,8 @@ class PersonController {
         person.save()
         render "Success!"
     }
+
+def somethingElse() {
+}
+
 }
